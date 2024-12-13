@@ -62,9 +62,17 @@ python manage.py runserver
   <li>Open the app in your browser at <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>.</li>
 </ol>
 
+
 <h2>How to Use</h2>
 <ol>
   <li>Visit the homepage to view the list of recipes.</li>
   <li>Click <strong>"Add a new recipe"</strong> to submit a new recipe using the form.</li>
   <li>View the updated list with your newly added recipe.</li>
 </ol>
+
+
+
+![Screenshot 2024-12-13 173853](https://github.com/user-attachments/assets/258920be-690b-47e4-a3d9-aa6adac065cd)
+
+![Screenshot 2024-12-13 173816](https://github.com/user-attachments/assets/3a8cc772-e0b6-40b2-812c-b0ae05c4a1f7)
+
